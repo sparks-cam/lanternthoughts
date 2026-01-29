@@ -2,7 +2,7 @@
 layout: page
 title: TTRPG
 permalink: /ttrpg/
-image: /images/01-2.jpg
+image: https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/ttrpg_hub_hero.webp
 ---
 
 Welcome to the TTRPG hub. Pick a section:

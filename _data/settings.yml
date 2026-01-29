@@ -46,7 +46,7 @@ mailchimp:
 author:
   author_name: Cameron Sparks
   author_bio: Reflections on life, creativity, technology, and imagined worlds.
-  author_avatar: '/images/01-1.jpg'
+  author_avatar: 'https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/author_image.webp'
 
 
 social:
@@ -67,8 +67,8 @@ gallery:
   gallery_title: Gallery
   gallery_columns: 3
   gallery_images:
-    - alt: 'Rest'
-      url: '/images/100.jpg'
+    - alt: 'TTRPG'
+      url: 'https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/ttrpg_hub_hero.webp'
     - alt: 'Lifestyle'
       url: '/images/101.jpg'
     - alt: 'Hobby'
