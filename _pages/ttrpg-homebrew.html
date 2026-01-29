@@ -1,0 +1,25 @@
+---
+layout: page
+title: TTRPG - Homebrew
+permalink: /ttrpg/homebrew/
+---
+
+{% assign posts = site.posts
+  | where_exp: "p", "p.tags contains 'ttrpg'"
+  | where_exp: "p", "p.tags contains 'homebrew'"
+  | sort: "date"
+  | reverse %}
+
+<div class="container">
+  <div class="row">
+    {% if posts.size == 0 %}
+      <div class="col col-12">
+        <p>No homebrew posts yet.</p>
+      </div>
+    {% endif %}
+
+    {% for post in posts %}
+      {% include article.html %}
+    {% endfor %}
+  </div>
+</div>
