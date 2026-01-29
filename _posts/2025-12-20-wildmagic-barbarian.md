@@ -3,7 +3,7 @@ layout: post
 title:  "D&D Sandbox Character — Wildmagic Barbarian / Human"
 description: Wildmagic Barbarian
 date:   2025-12-20 15:01:35 +0300
-image:  '/images/09.jpg'
+image:  'https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/wildmagic_barbarian_face.webp'
 tags:   [ttrpg, characters, build, barbarian]
 ---
 
@@ -49,7 +49,7 @@ He left home after being politely but firmly asked never to rage within town lim
 
 ---
 
-![Boomgrave - Human Wildmagic Barbarian](https://github.com/sparks-cam/sparks-cam.github.io/releases/download/assets-v1/wildmagic_barbarian_default.webp)
+![Boomgrave - Human Wildmagic Barbarian](https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/wildmagic_barbarian_default.webp)
 
 ## A Professional Menace
 
@@ -76,7 +76,7 @@ He keeps contracts because reputation matters. He keeps allies alive because liv
 Boomgrave is jovial, unpredictable, and unsettlingly confident that things will “probably work out”—mostly because they usually do *for him*.
 
 
-![Boomgrave - Human Wildmagic Barbarian](https://github.com/sparks-cam/sparks-cam.github.io/releases/download/assets-v1/wildmagic_barbarian_action.webp)
+![Boomgrave - Human Wildmagic Barbarian](https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/wildmagic_barbarian_action.webp)
 
 ---
 

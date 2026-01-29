@@ -3,7 +3,7 @@ layout: post
 title:  "D&D Sandbox Character — Wildmagic Sorcerer / Goblin"
 description: Wildmagic Sorcerer
 date:   2025-10-15 15:01:35 +0300
-image:  '/images/09.jpg'
+image:  'https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/goblin_wild_magic.webp'
 tags:   [ttrpg, characters, build, sorcerer]
 ---
 
@@ -19,7 +19,7 @@ Sandbox campaigns are both freeing and challenging. Without extensive world lore
 
 ---
 
-![Skez - Goblin Wildmagic Sorcerer](https://github.com/sparks-cam/sparks-cam.github.io/releases/download/assets-v1/goblin_wild_magic.webp)
+![Skez - Goblin Wildmagic Sorcerer](https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/goblin_wild_magic.webp)
 
 *A fast-talking goblin con artist whose fake magic occasionally becomes terrifyingly real—and who considers unexplored ruins the safest place to experiment.*
 

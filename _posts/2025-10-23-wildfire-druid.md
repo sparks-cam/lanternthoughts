@@ -3,7 +3,7 @@ layout: post
 title:  "D&D Sandbox Character — Wildfire Druid / Tiefling"
 description: Wildfire Tiefling Druid
 date:   2025-11-10 15:01:35 +0300
-image:  '/images/09.jpg'
+image:  'https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/arkil_face_thumbnail_resize.webp'
 tags:   [ttrpg, characters, build, druid]
 ---
 
@@ -22,7 +22,7 @@ I'll be building this characters backstory with enough flexibility to hopefully 
 
 ## 🪶 Character Overview
 
-![Arkil - Tiefling Wildfire Druid](https://github.com/sparks-cam/sparks-cam.github.io/releases/download/assets-v1/arkil_400.webp)
+![Arkil - Tiefling Wildfire Druid](https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/arkil_400.webp)
 
 **Name**: Arkil  
 **Race/Ancestry**:  Tiefling (Infernal)  
