@@ -3,7 +3,7 @@ layout: post
 title:  "Using a Community Doc to Update 2014 Subclasses for the 2024 Rules"
 description: "How I handle legacy subclasses in the 2024 ruleset without reinventing the wheel"
 date:   2025-12-23 15:01:35 +0300
-image:  '/images/09.jpg'
+image:  'https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/dnd_books_template.webp'
 tags:   [ttrpg, system, rules, homebrew]
 ---
 

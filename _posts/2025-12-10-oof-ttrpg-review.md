@@ -3,7 +3,7 @@ layout: post
 title:  "Odds of Fate (OOF)"
 description: "A review of the odds of fate table top roleplaying game."
 date:   2025-12-10 15:01:35 +0300
-image:  '/images/09.jpg'
+image:  'https://github.com/sparks-cam/lanternthoughts/releases/download/assets-v1/rules_posts_template.webp'
 tags:   [ttrpg, system, reviews, module]
 ---
 
